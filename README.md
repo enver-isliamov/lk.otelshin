@@ -22,7 +22,7 @@ Simply visit the [Lovable Project](https://lovable.dev/projects/86de7c90-bfa2-4e
 
 Выполните следующие действия:
 
-``sh
+```sh
 # Шаг 1: Клонируйте репозиторий, используя URL-адрес Git проекта.
 git clone <ВАШ_GIT_URL>
 

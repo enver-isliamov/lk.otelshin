@@ -1,58 +1,58 @@
-# Welcome to your Lovable project
+# Добро пожаловать в ваш привлекательный проект
 
-## Project info
+## Информация о проекте
 
 **URL**: https://lovable.dev/projects/86de7c90-bfa2-4ea9-b1d2-216984f4b59d
 
-## How can I edit this code?
+## Как я могу отредактировать этот код?
 
-There are several ways of editing your application.
+Существует несколько способов редактирования вашего приложения.
 
-**Use Lovable**
+** Используйте привлекательный**
 
 Simply visit the [Lovable Project](https://lovable.dev/projects/86de7c90-bfa2-4ea9-b1d2-216984f4b59d) and start prompting.
 
-Changes made via Lovable will be committed automatically to this repo.
+Изменения, внесенные с помощью Lovable, будут автоматически перенесены в это хранилище.
 
-**Use your preferred IDE**
+**Используйте предпочитаемую среду IDE**
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Если вы хотите работать локально, используя свою собственную среду IDE, вы можете клонировать это хранилище и внести изменения. Внесенные изменения также будут отражены в Lovable.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Единственное требование - наличие установленного Node.js & npm - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
-Follow these steps:
+Выполните следующие действия:
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+``sh
+# Шаг 1: Клонируйте репозиторий, используя URL-адрес Git проекта.
+git clone <ВАШ_GIT_URL>
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+# Шаг 2: Перейдите в каталог проекта.
+cd <ИМЯ_ВАШЕГО_ПРОЕКТА>
 
-# Step 3: Install the necessary dependencies.
+# Шаг 3: Установите необходимые зависимости.
 npm i
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
+# Шаг 4: Запустите сервер разработки с автоматической перезагрузкой и мгновенным предварительным просмотром.
+npm запустит dev
 ```
 
-**Edit a file directly in GitHub**
+**Редактировать файл непосредственно на GitHub**
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+- Перейдите к нужному файлу (ам).
+- Нажмите кнопку "Редактировать" (значок карандаша) в правом верхнем углу окна просмотра файла.
+- Внесите свои изменения и зафиксируйте их.
 
-**Use GitHub Codespaces**
+**Используйте GitHub Codespaces**
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+- Перейдите на главную страницу вашего репозитория.
+- Нажмите на кнопку "Code" (зеленая кнопка) в правом верхнем углу.
+- Выберите вкладку "Codespaces".
+- Нажмите на "New codespace", чтобы запустить новую среду Codespace.
+- Редактируйте файлы непосредственно в Codespace и, как только закончите, вносите изменения.
 
-## What technologies are used for this project?
+## Какие технологии используются в этом проекте?
 
-This project is built with:
+Этот проект создан с использованием:
 
 - Vite
 - TypeScript
@@ -60,14 +60,14 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
+## Как я могу развернуть этот проект?
 
 Simply open [Lovable](https://lovable.dev/projects/86de7c90-bfa2-4ea9-b1d2-216984f4b59d) and click on Share -> Publish.
 
-## Can I connect a custom domain to my Lovable project?
+## Могу ли я подключить пользовательский домен к своему привлекательному проекту?
 
-Yes, you can!
+Да, вы можете!
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+Чтобы подключить домен, перейдите в Проект> Настройки> Домены и нажмите Подключить домен.
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+Подробнее читайте здесь: [Настройка пользовательского домена](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
